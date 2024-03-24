@@ -1,0 +1,15 @@
+.Card{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 25px;
+}
+
+.button{
+    background-color: white;
+    color: black;
+}
+
+body{
+    background-color: black;
+}
